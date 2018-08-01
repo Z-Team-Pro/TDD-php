@@ -1,0 +1,13 @@
+{
+    "name": "zteampro/tdd",
+    "description": "demo repo for phpunit",
+    "require": {
+        "phpunit/phpunit": "6.2"
+    },
+    "authors": [
+        {
+            "name": "Ramy Hakam",
+            "email": "pencilsoft1@gmail.com"
+        }
+    ]
+}
